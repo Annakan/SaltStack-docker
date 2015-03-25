@@ -4,5 +4,5 @@ Saltstack Docker (installation through bootstrap script of salt/saltstack in a d
 
 ##TODO
 
-Start the services with running (we are using phusion image here)
+Start the services with runit (we are using phusion image here)
 
